@@ -1,8 +1,19 @@
-# React + Vite
+# React + Vite + Bootstrap
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+codes :
 
-Currently, two official plugins are available:
+npm create vite@latest
+npm install react-bootstrap bootstrap
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+learning Hooks
+
+# useState :
+
+it is a hook for sitting an variable and casting it and it can be with default value
+
+# UseEffect :
+
+Its function is to call the method inside it every time the conditional dependency inside it or the variable within the variables column is changed.
+
+notes:
+adding bootstrap.min.css file and cast it in main.jsx
